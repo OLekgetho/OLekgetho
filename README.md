@@ -5,6 +5,7 @@ I am a cybersecurity student, and here’s an elevator pitch about me:
 - 🏠 I currently live in South Africa.
 - 🎓 I am a certified Azure Security Engineer.
 - ⚽ I am a football fan.
+- 🏀 I am also a basketball fan.
 
 <!---
 OLekgetho/OLekgetho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
