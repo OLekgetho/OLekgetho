@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 Here are some of my projects that you can explore:
 
+
+### 📊 [Azure DevOps Terraform CI/CD Pipeline](https://github.com/OLekgetho/Azure_DevOps_Terraform_CI-CD_Pipeline_Project)
 ### 🧑‍💻 [Infrastructure as Code (IaC) Deployment on Azure with Terraform and Git](https://github.com/OLekgetho/IaC_Terraform)
 ### 💻 [Nessus Vulnerability Management Lab](https://github.com/OLekgetho/Nessus-Vulnerability-Management-Lab)
 ### 🔒 [WAZUH SIEM Lab](https://github.com/OLekgetho/Wazuh_SIEM_Brute-Force_Attack_Demonstration_Home_Lab)
