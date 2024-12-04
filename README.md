@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 Here are some of my projects that you can explore:
 
-
+### ☁️ [Serveless QR Code Generator](https://github.com/OLekgetho/Serverless-QR-Code-Generator-in-Azure-using-Azure-Functions-Azure-Storage-and-Terraform.)
 ### ☁️ [Azure IaaS Infrastructure Deployment using Azure CLI](https://github.com/OLekgetho/Azure-IaaS-Infrastructure-Deployment-using-Azure-CLI)
 ### 💵 [Azure Cloud Native Expense Tracker with Docker, ACR, and App Service](https://github.com/OLekgetho/Azure_Cloud_Native_Expense_Tracker_with_Docker_ACR_and_App_Service)
 ### 📊 [Azure DevOps Terraform CI/CD Pipeline](https://github.com/OLekgetho/Azure_DevOps_Terraform_CI-CD_Pipeline_Project)
