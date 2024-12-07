@@ -14,18 +14,23 @@ You can click the Preview link to take a look at your changes.
 
 ### Tools at my disposal 😲
 
-[![My Skills](https://skillicons.dev/icons?i=azure,git,terraform,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,ansible,terraform,aws,nodejs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,kubernetes,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,githubactions,ubuntu,gitlab,powershell)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,kubernetes,docker,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,linux,js)](https://skillicons.dev)
+
+
+
+
 
 ## My Projects 🚀
 
 Here are some of my projects that you can explore:
 
+### 💻 [Automated Infrastructure with Terraform, GitLab CI/CD, EC2, and Ansible](https://github.com/OLekgetho/Automated-Infrastructure-with-Terraform-GitLab-CI-CD-AWS-EC2-and-Ansible)
 ### ☁️ [Serveless QR Code Generator](https://github.com/OLekgetho/Serverless-QR-Code-Generator-in-Azure-using-Azure-Functions-Azure-Storage-and-Terraform.)
 ### ☁️ [Azure IaaS Infrastructure Deployment using Azure CLI](https://github.com/OLekgetho/Azure-IaaS-Infrastructure-Deployment-using-Azure-CLI)
 ### 💵 [Azure Cloud Native Expense Tracker with Docker, ACR, and App Service](https://github.com/OLekgetho/Azure_Cloud_Native_Expense_Tracker_with_Docker_ACR_and_App_Service)
