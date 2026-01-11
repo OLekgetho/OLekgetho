@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OLekgetho&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  &nbsp;
+  <!-- <img src="https://komarev.com/ghpvc/?username=OLekgetho&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  &nbsp; -->
   <a href="https://github.com/OLekgetho?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OLekgetho?color=55960c&labelColor=488207&logo=star"/>
   </a>
