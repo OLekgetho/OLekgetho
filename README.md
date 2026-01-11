@@ -1,22 +1,31 @@
-# 👋 Hi, I’m Ofentse 😁
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=b2b2b2&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ofentse+Lekgetho+%F0%9F%91%8B;Full+Stack+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-I am a Software Developer, and here’s an elevator pitch about me:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OLekgetho&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <a href="https://github.com/OLekgetho?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OLekgetho?color=55960c&labelColor=488207&logo=star"/>
+  </a>
+</p>
 
-- 🏠 I currently live in South Africa.
-- ⚽ I am a football fan.
-- 🏀 I am also a basketball fan.
+---
 
-<!---
-OLekgetho/OLekgetho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me
 
-### Tools at my disposal 😲
+I'm a passionate **Full Stack Software Developer** from **South Africa** 🇿🇦  
+I love building scalable applications, clean architecture, and learning new technologies.
 
-[![My Skills](https://skillicons.dev/icons?i=azure,terraform,aws,nodejs)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,githubactions,ubuntu,gitlab)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,docker,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=java,bash,spring,linux)](https://skillicons.dev)
+```yaml
+name: Ofentse Lekgetho
+currently_learning:
+  - Mobile Development (React Native + Expo)
+  - Cloud Deployment (AWS)
+  - CI/CD Pipelines
+currently_working_on: InvestSnart project
+hobbies:
+  - Football (⚽️)
+  - Basketball (🏀)
+  - Gaming & Anime
+  - Learning how systems really work under the hood
