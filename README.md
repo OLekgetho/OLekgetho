@@ -23,7 +23,7 @@ currently_learning:
   - Mobile Development (React Native + Expo)
   - Cloud Deployment (AWS)
   - CI/CD Pipelines
-currently_working_on: InvestSnart project
+currently_working_on: InvestSmart App
 hobbies:
   - Football (⚽️)
   - Basketball (🏀)
