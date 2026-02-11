@@ -20,6 +20,7 @@ I love building scalable applications, clean architecture, and learning new tech
 ```yaml
 name: Ofentse Lekgetho
 currently_working_on: Safety Encrypt App
+app_overview: A security-focused mobile application that provides cryptographic tools such as encoding, encryption, hashing, and password generation, using a microservice architecture for scalability.
 hobbies:
   - Football (⚽️)
   - Basketball (🏀)
