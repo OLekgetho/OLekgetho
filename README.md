@@ -19,13 +19,8 @@ I love building scalable applications, clean architecture, and learning new tech
 
 ```yaml
 name: Ofentse Lekgetho
-currently_learning:
-  - Mobile Development (React Native + Expo)
-  - Cloud Deployment (AWS)
-  - CI/CD Pipelines
-currently_working_on: InvestSmart App
+currently_working_on: Safety Encrypt App
 hobbies:
   - Football (⚽️)
   - Basketball (🏀)
   - Gaming & Anime
-  - Learning how systems really work under the hood
