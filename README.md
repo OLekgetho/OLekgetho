@@ -5,9 +5,10 @@
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=OLekgetho&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views"/>
   &nbsp; -->
-  <a href="https://github.com/OLekgetho?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OLekgetho?color=55960c&labelColor=488207&logo=star"/>
-  </a>
+  <img src="https://img.shields.io/badge/Playing-Nothing-blue?style=for-the-badge&logo=playstation&logoColor=white" alt="playing" />
+  <img src="https://img.shields.io/badge/Coding-Safety%20Encrypt-cyan?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="coding" />
+  <img src="https://img.shields.io/badge/Spotify-The%20Fall%20Off-green?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
+</p>
 </p>
 
 ---
@@ -25,3 +26,8 @@ hobbies:
   - Football (⚽️)
   - Basketball (🏀)
   - Gaming & Anime
+
+```
+
+### Development Stack
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,github,gitlab,java,js,mysql,postman,py,react,spring,postgres&perline=6)](https://skillicons.dev)
