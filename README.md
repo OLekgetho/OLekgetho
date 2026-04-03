@@ -6,7 +6,7 @@
   <!-- <img src="https://komarev.com/ghpvc/?username=OLekgetho&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views"/>
   &nbsp; -->
   <img src="https://img.shields.io/badge/Playing-Nothing-blue?style=for-the-badge&logo=playstation&logoColor=white" alt="playing" />
-  <img src="https://img.shields.io/badge/Coding-Safety%20Encrypt-cyan?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="coding" />
+  <img src="https://img.shields.io/badge/Coding-SkySa-cyan?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="coding" />
   <img src="https://img.shields.io/badge/Spotify-The%20Fall%20Off-green?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
 </p>
 </p>
