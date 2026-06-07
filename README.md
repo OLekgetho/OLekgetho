@@ -20,7 +20,7 @@ I love building scalable applications, clean architecture, and learning new tech
 
 ```yaml
 name: Ofentse Lekgetho
-currently_working_on: SkySa App
+currently_working_on: DevFocus App
 hobbies:
   - Football (⚽️)
   - Basketball (🏀)
